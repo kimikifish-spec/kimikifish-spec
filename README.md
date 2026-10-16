@@ -4,6 +4,7 @@
 <!--
 **kimikifish-spec/kimikifish-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img width="350" height="350" alt="A0E16094-17B4-46CC-857C-23657FCA1397" src="https://github.com/user-attachments/assets/7128385a-1f87-4591-9aaf-85f325959671" />
+<img width="999" height="502" alt="IMG_5968" src="https://github.com/user-attachments/assets/1e261cdb-a1b7-43d4-bb86-c7fea3b2a9e1" />
 
 <img width="359" height="270" alt="B37C307F-96C5-4FE4-8359-5811F917786B" src="https://github.com/user-attachments/assets/8acdf65d-df92-4946-a3b6-cc5351bb0df5" />
 <img width="813" height="452" alt="F25254F4-2599-4E96-A89A-CAA1EF3B6E23" src="https://github.com/user-attachments/assets/020df7bb-bf95-4f1b-97aa-9f14c611bf1b" />
