@@ -3,6 +3,7 @@
 
 <!--
 **kimikifish-spec/kimikifish-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="350" height="350" alt="A0E16094-17B4-46CC-857C-23657FCA1397" src="https://github.com/user-attachments/assets/7128385a-1f87-4591-9aaf-85f325959671" />
 
 Here are some ideas to get you started:
 
