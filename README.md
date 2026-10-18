@@ -1,6 +1,5 @@
 ## Hi there 👋
-<img width="324" height="400" alt="40 sin título_20261017175246" src="https://github.com/user-attachments/assets/aca7445d-3281-408f-bc27-188623f355b4" />
-
+<
 <
 
 **kimikifish-spec/kimikifish-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
