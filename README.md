@@ -1,4 +1,3 @@
-## Hi there 👋
 <img width="16384" height="1629" alt="41 sin título_20261017211604" src="https://github.com/user-attachments/assets/ed09f395-a052-45f2-b9bc-6081e8d2755f" />
 <img width="964" height="516" alt="IMG_6190" src="https://github.com/user-attachments/assets/f2c75e05-27d3-4b8c-b480-87a72cf56571" />
 <img width="16384" height="1629" alt="41 sin título_20261017212110" src="https://github.com/user-attachments/assets/124a8b6a-e486-4dcb-a9de-774ff5d03b5c" />
@@ -10,7 +9,7 @@ HALO!!!! My name is Hao, but I also go by Feliks, Danielle and Emil! I’m 17 ye
 My pronouns are He / Him
 <img width="16384" height="1629" alt="41 sin título_20261017220845" src="https://github.com/user-attachments/assets/16028211-8d63-4c90-a22a-90a92719db1f" />
 I’m usually hanging out in the Safe Server Hetalia area or in the Chinese server IdentityV area !! ♡ ♡ 
-( sometimes in the +18 ) ≽(•⩊ •マ≼ always feel free to sit with me, we’ll keep each other company!
+(sometimes in the +18) ≽(•⩊ •マ≼ always feel free to sit with me, we’ll keep each other company!
 <img width="16384" height="1629" alt="41 sin título_20261017212157" src="https://github.com/user-attachments/assets/421ecf73-8ecb-44c3-b152-1b8ddd61ee47" />
 Fictkins: Poland, Jinx / Powder, Emil Mesmer, and Razor. IDM doubles interacting
 
