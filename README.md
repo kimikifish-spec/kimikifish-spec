@@ -1,6 +1,5 @@
 ## Hi there 👋
-<img width="324" height="400" alt="IMG_5692" src="https://github.com/user-attachments/assets/9b023f3a-980c-4b1c-a9b0-62f14329e654" />
-你好!你可以叫我Dani。我的中文不是很好，所以我会使用翻译器。如果你愿意和我聊天，我更喜欢你私信我。否则我就不知道你是不是在和我说话了。('' •᷄ ⩊ •᷅ ) ♡
+< 
 <!-- <img width="408" height="408" alt="498C037C-A786-4CE2-B78F-0F1A92FE5E4B" src="https://github.com/user-attachments/assets/baa3555a-0691-4a3b-b3c5-93d531e759f2" />
 
 **kimikifish-spec/kimikifish-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
