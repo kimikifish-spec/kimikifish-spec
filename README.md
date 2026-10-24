@@ -7,3 +7,8 @@
 <p align="center">
   ✧･ﾟ: <b>About Me</b> :･ﾟ✧
 </p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=999999&pause=999999&color=F4A7BB&center=true&vCenter=true&width=435&lines=About+Me+%E2%99%A1" />
+</p>
