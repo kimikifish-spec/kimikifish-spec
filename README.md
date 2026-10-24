@@ -10,5 +10,5 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=999999&pause=999999&color=F4A7BB&center=true&vCenter=true&width=435&lines=About+Me+%E2%99%A1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=1000&color=FFC0CB&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile+%E2%99%A1" />
 </p>
