@@ -20,7 +20,8 @@
 
 
 
-<img width="1920" height="226" alt="47 sin título_20261024204255" src="https://github.com/user-attachments/assets/b87c4984-fb82-4a01-9256-7c6f0d09a03d" />
+<img width="1920" height="226" alt="47 sin título_20261024211618" src="https://github.com/user-attachments/assets/7076f325-c7e2-4e40-ba90-2185faa541d2" />
+
 
 <div align="center"> 你好!你可以叫我Dani。我的中文不是很好，所以我会使用翻译器。如果你愿意和我聊天，我更喜欢你私信我。否则我就不知道你是不是在和我说话了。('' •᷄ ⩊ •᷅ ) ♡ </div>
 <p align="center">
