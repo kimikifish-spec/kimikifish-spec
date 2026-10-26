@@ -18,12 +18,3 @@
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&color=FFC0CB&center=true&vCenter=true&width=435&lines=About+Me+%E2%99%A1" />
 </p>
 
-
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="60">
-  <text x="0" y="40"
-        font-size="24"
-        fill="#F4A7C7"
-        font-family="Arial, sans-serif">
-    . ݁ ⟡ Hao / Feliks / Danielle / Loki  ݁ ˖ ⟡
-  </text>
-</svg>
