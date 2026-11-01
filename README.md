@@ -22,14 +22,13 @@
 ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
 
 
+
+
 <th>
-      $\color{c49927}\normalsize{\texttt{i spend most of my time offtab, but feel}}$ <br>
-      $\color{c49927}\normalsize{\texttt{free to interact or sit w me! i often}}$ <br>
-      $\color{c49927}\normalsize{\texttt{reply to whispers very late and arent}}$ <br>
-      $\color{c49927}\normalsize{\texttt{very good at continuing convos tho..}}$ <br>
-      $\color{c49927}\normalsize{\texttt{i promise im not ghosting you on purpose!}}$ <br>
-      $\color{c49927}\normalsize{\texttt{ idc about copying, queer infighting, or}}$ <br>
-      $\color{c49927}\normalsize{\texttt{ship discourse (proship dni tho).}}$ <br>
+      $\color{c49927}\normalsize{\texttt{你好!你可以叫我Dani！}}$ <br>
+      $\color{c49927}\normalsize{\texttt{我的中文不是很好，所以我会使用翻译器。}}$ <br>
+      $\color{c49927}\normalsize{\texttt{如果你愿意和我聊天，我更喜欢你私信我。}}$ <br>
+      $\color{c49927}\normalsize{\texttt{否则我就不知道你是不是在和我说话了。}}$ <br>
     </th>
   </tr>
   </table>
