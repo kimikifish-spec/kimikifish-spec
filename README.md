@@ -24,6 +24,7 @@ ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
 
 
 
+<img width="500" height="432" alt="8AD235D1-7B7B-4B4A-B93E-6BCB33DD0CDC" src="https://github.com/user-attachments/assets/87344293-eb51-4aa1-bcee-8d3029b22018" />
 
 
 
