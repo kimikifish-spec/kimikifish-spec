@@ -23,8 +23,16 @@ ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
 
 
 <p align="center">
-${{\color{#ffbfd6}{\textsf{你好!你可以叫我Dani。
-  我的中文不是很好，所以我会使用翻译器。
-  如果你愿意和我聊天，我更喜欢你私信我。
-  否则我就不知道你是不是在和我说话了。('' •᷄ ⩊ •᷅ ) ♡}}}}$
+${{\color{#ffbfd6}{\textsf{你好!你可以叫我Dani。}}}}$
+<p align="center">
+${{\color{#ffbfd6}{\textsf{我的中文不是很好，所以我会使用翻译器。}}}}$
+<p align="center">
+${{\color{#ffbfd6}{\textsf{如果你愿意和我聊天，我更喜欢你私信我。}}}}$
+<p align="center">
+${{\color{#ffbfd6}{\textsf{否则我就不知道你是不是在和我说话了。('' •᷄ ⩊ •᷅ ) }}}}$
+
+
+
+  
+  
 
