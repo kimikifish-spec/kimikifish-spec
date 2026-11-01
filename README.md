@@ -35,3 +35,12 @@ ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
   </table>
   
 <img width="30" height="30" alt="IMG_6348" src="https://github.com/user-attachments/assets/37ffc124-d4d3-4ad1-8415-fc2708923509" />
+
+
+<h1 <th>
+      $\color{FFC1C3}\normalsize{\texttt{你好!你可以叫我Dani。我的中文不是很好，所以我会使}}$ <br>
+      $\color{FFC1C3}\normalsize{\texttt{用翻译器。如果你愿意和我聊天，我更喜欢你私信我。}}$ <br>
+      $\color{FFC1C3}\normalsize{\texttt{否则我就不知道你是不是在和我说话了。}}$ ('' •᷄ ⩊ •᷅ ) <br>
+    </th>
+  </tr> </h1> 
+  </table> 
