@@ -29,7 +29,7 @@ ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
 <th>
       $\color{ffbfd6}\normalsize{\texttt{你好!你可以叫我Dani！我的中文不是很好，}}$ <br>
       $\color{ffbfd6}\normalsize{\texttt{所以我会使用翻译器。如果你愿意和我聊天，}}$ <br>
-      $\color{ffbfd6}\normalsize{\texttt{我更喜欢你私信我。否则我就不知道你是不是在和我说话了。}}$ <br>
+      $\color{ffbfd6}\normalsize{\texttt{我更喜欢你私信我。}}$ <br>
       $\color{ffbfd6}\normalsize{\texttt{否则我就不知道你是不是在和我说话了。}}$ <br>
     </th>
   </tr>
