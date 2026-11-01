@@ -18,3 +18,4 @@
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&color=FFC0CB&center=true&vCenter=true&width=435&lines=About+Me+%E2%99%A1" />
 </p>
 
+${{\color{#ffbfd6}{\textsf{my husband}}}}$
