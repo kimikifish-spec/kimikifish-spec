@@ -24,15 +24,6 @@ ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
 
 
 
-<img width="3000" height="3000" alt="51 sin título_20261101125456" src="https://github.com/user-attachments/assets/18db4115-2b27-469a-bbe0-a01d19ed43e8" />
 
-<th>
-      $\color{FFC1C3}\normalsize{\texttt{你好!你可以叫我Dani。我的中文不是很好，所以我会使}}$ <br>
-      $\color{FFC1C3}\normalsize{\texttt{用翻译器。如果你愿意和我聊天，我更喜欢你私信我。}}$ <br>
-      $\color{FFC1C3}\normalsize{\texttt{否则我就不知道你是不是在和我说话了。}}$ ('' •᷄ ⩊ •᷅ ) <br>
-    </th>
-  </tr>
-  </table>
-  
-<img width="30" height="30" alt="IMG_6348" src="https://github.com/user-attachments/assets/37ffc124-d4d3-4ad1-8415-fc2708923509" />
+
 
