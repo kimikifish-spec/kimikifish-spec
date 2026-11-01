@@ -24,6 +24,8 @@ ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
 
 
 
+<img width="3000" height="3000" alt="51 sin título_20261101125456" src="https://github.com/user-attachments/assets/18db4115-2b27-469a-bbe0-a01d19ed43e8" />
+
 <th>
       $\color{c49927}\normalsize{\texttt{你好!你可以叫我Dani！}}$ <br>
       $\color{c49927}\normalsize{\texttt{我的中文不是很好，所以我会使用翻译器。}}$ <br>
