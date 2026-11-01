@@ -21,4 +21,4 @@
 <p align="center">
 ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
 
-<img width="1920" height="226" alt="IMG_6270" src="https://github.com/user-attachments/assets/ceab4658-bbd8-41b6-8d75-eb42bbe7d5bb" />
+
