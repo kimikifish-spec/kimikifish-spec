@@ -29,7 +29,7 @@ ${{\color{#ffbfd6}{\textsf{我的中文不是很好，所以我会使用翻译�
 <p align="center">
 ${{\color{#ffbfd6}{\textsf{如果你愿意和我聊天，我更喜欢你私信我。}}}}$
 <p align="center">
-${{\color{#ffbfd6}{\textsf{否则我就不知道你是不是在和我说话了。('' •᷄ ⩊ •᷅ ) }}}}$
+${{\color{#ffbfd6}{\textsf{否则我就不知道你是不是在和我说话了。}}}}$ ('' •᷄ ⩊ •᷅ )
 
 
 
