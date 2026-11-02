@@ -38,6 +38,5 @@ ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
     </th>
   </tr>
   </table>
-<img src= https://github.com/kimikifish-spec/kimikifish-spec/blob/0a5f863d4cbe3e0790e1d9433e35792d79557473/41%20sin%20ti%CC%81tulo_20261101212053.png/>
-<p align="center">
-${{\color{#ffbfd6}{\textsf{⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔}}}}$
+<img src= https://github.com/kimikifish-spec/kimikifish-spec/blob/0a5f863d4cbe3e0790e1d9433e35792d79557473/41%20sin%20ti%CC%81tulo_20261101212053.png/> <p align="center">
+${{\color{#FFE7CF}{\textsf{⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔}}}}$
