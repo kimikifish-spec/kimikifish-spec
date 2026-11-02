@@ -1,7 +1,3 @@
-![Pink](https://img.shields.io/badge/Pink-hello-ffb6c9?style=flat-square)
-![Purple](https://img.shields.io/badge/Purple-hello-c7b5ff?style=flat-square)
-![Green](https://img.shields.io/badge/Green-hello-b7e4c7?style=flat-square)
-
 <h1 align="center">♡ Welcome to my profile! <img width="50" height="50" alt="IMG_6348" src="https://github.com/user-attachments/assets/37ffc124-d4d3-4ad1-8415-fc2708923509" /> </h1> 
 
 <p align="center">
