@@ -42,7 +42,7 @@ ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
  <th>
       $\color{FFD6B8}\normalsize{\texttt{I’m usually hanging out in the Safe Server}}$ <br>
     $\color{FFE7CF}\normalsize{\texttt{Hetalia area or in the Chinese server IdentityV area !!}}$ <br>
-      $\color{FFECE0}\normalsize{\texttt{≽(•⩊ •マ≼ always feel free to sit with me, we’ll keep each other company!}}$ <br>
+      $\color{FFECE0}\normalsize{\texttt{always feel free to sit with me, we’ll keep each other company!}}$ <br>
     </th>
   </tr>
   </table>
