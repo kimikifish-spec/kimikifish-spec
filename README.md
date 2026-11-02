@@ -31,4 +31,3 @@ ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
 
 
 
-<img src= https://github.com/kimikifish-spec/kimikifish-spec/blob/156c63eae7c9ab0e1bb75434ff04b28ff1a9a202/IMG_6360.png/>
