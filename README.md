@@ -41,7 +41,7 @@ ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
 <img src= https://github.com/kimikifish-spec/kimikifish-spec/blob/0a5f863d4cbe3e0790e1d9433e35792d79557473/41%20sin%20ti%CC%81tulo_20261101212053.png/> <p align="center">
  <th>
       $\color{FFD6B8}\normalsize{\texttt{I’m usually hanging out in the Safe Server}}$ <br>
-      $\color{FFE7CF}\normalsize{\texttt{用翻译器。如果你愿意和我聊天，我更喜欢你私信我。}}$ <br>
+    $\color{FFE7CF}\normalsize{\texttt{Hetalia area or in the Chinese server IdentityV area !!}}$ <br>
       $\color{FFECE0}\normalsize{\texttt{否则我就不知道你是不是在和我说话了。}}$ ('' •᷄ ⩊ •᷅ ) <br>
     </th>
   </tr>
