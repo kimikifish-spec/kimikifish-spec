@@ -25,3 +25,10 @@ ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
 
 
 <img width="20" height="20" alt="8AD235D1-7B7B-4B4A-B93E-6BCB33DD0CDC" src="https://github.com/user-attachments/assets/87344293-eb51-4aa1-bcee-8d3029b22018" />
+
+
+
+
+
+
+<img src= https://github.com/kimikifish-spec/kimikifish-spec/blob/156c63eae7c9ab0e1bb75434ff04b28ff1a9a202/IMG_6360.png/>
