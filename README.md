@@ -41,7 +41,7 @@ ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
 <img src= https://github.com/kimikifish-spec/kimikifish-spec/blob/0a5f863d4cbe3e0790e1d9433e35792d79557473/41%20sin%20ti%CC%81tulo_20261101212053.png/>
  <th>
       $\color{FFD6B8}\normalsize{\texttt{I’m usually hanging out in the Safe Server Hetalia}}$ <br>
-    $\color{FFE7CF}\normalsize{\texttt{area or in the Chinese server IdentityV area ! !}}$ <br>
+    $\color{FFE7CF}\normalsize{\texttt{area or in the Chinese server IdentityV area ! !}}$ <br> <img src= https://github.com/kimikifish-spec/kimikifish-spec/blob/1669c9dd554636e25522c7cc7cc2bc58363052d9/53%20sin%20ti%CC%81tulo_20261101165752.png/>
 $\color{FFD6B8}\normalsize{\texttt{always feel free to sit with me,}}$ <br>
 $\color{FFECE0}\normalsize{\texttt{we’ll keep each other company!}}$ <br>
   </th>
