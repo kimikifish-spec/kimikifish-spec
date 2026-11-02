@@ -9,8 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&color=FFC0CB&center=true&vCenter=true&width=435&lines=About+Me+%E2%99%A1" />
 </p>
 
-<p align="center">
-${{\color{#ffbfd6}{\textsf{hellooo}}}}$
+<p align="center"> ${{\color{#FFEDDC}{\textsf{⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔}}}}$
 
 <img src= https://github.com/kimikifish-spec/kimikifish-spec/blob/f61ccdb178fad9bf002433c9e6c443b6f22fccbf/52%20sin%20ti%CC%81tulo_20261101152608.png/> 
 <th>
