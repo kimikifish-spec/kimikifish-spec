@@ -44,9 +44,7 @@ ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
     $\color{FFE7CF}\normalsize{\texttt{area or in the Chinese server IdentityV area ! !}}$ <br>
 
 <img src= https://github.com/kimikifish-spec/kimikifish-spec/blob/1669c9dd554636e25522c7cc7cc2bc58363052d9/53%20sin%20ti%CC%81tulo_20261101165752.png/>
-
-$\color{FFD6B8}\normalsize{\texttt{always feel free to sit with me,}}$ <br>
-$\color{FFECE0}\normalsize{\texttt{we’ll keep each other company!}}$ <br>
+$\color{FFECE0}\normalsize{\texttt{always feel free to sit with me, we’ll keep each other company!}}$ <br>
   </th>
   </tr>
   </table>
