@@ -38,4 +38,4 @@ ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
     </th>
   </tr>
   </table>
-<img src= https://github.com/kimikifish-spec/kimikifish-spec/blob/e8f049dbce7ada1cb566e7e397b9c2222fd4f8bd/41%20sin%20ti%CC%81tulo_20261101211544.png/>
+<img src= https://github.com/kimikifish-spec/kimikifish-spec/blob/df85179f9fe5683f8716121ae06b11f6eb1b14d8/41%20sin%20ti%CC%81tulo_20261101211755.png>
