@@ -38,6 +38,5 @@ ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
     </th>
   </tr>
   </table>
-  <p align="center">
+align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=15&duration=3000&pause=1000&color=FDF2D5&center=true&vCenter=true&width=435&lines=Thank+you+,+Whip!" />
-</p>
