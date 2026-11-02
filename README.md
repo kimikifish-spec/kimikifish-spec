@@ -33,7 +33,9 @@ ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
 <th>
       $\color{FFD6B8}\normalsize{\texttt{你好!你可以叫我Dani! 我的中文不是很好，所以我}}$ <br>
       $\color{FFE7CF}\normalsize{\texttt{会使用翻译器。如果你愿意和我聊天，我更喜欢你}}$ <br>
-      $\color{FFECE0}\normalsize{\texttt{私信我。否则我就不知道你是不是在和我说话了。}}$ ('' •᷄ ⩊ •᷅ ) <br>
+      $\color{FFECE0}\normalsize{\texttt{私信我。否则我就不知道你是不是在和我说话了。}}$ ('' •᷄ ⩊ •᷅ )   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=17&duration=3000&pause=1000&color=FFC0CB&center=true&vCenter=true&width=435&lines=Thank+you+,+Whip!+%E2%99%A1" />
+</p>
+<br>
     </th>
   </tr>
   </table>
