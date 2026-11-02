@@ -50,4 +50,4 @@ $\color{FFE7CF}\normalsize{\texttt{always feel free to sit with me, }}$ <br>
 
 
 
-<img width="20" height="20" alt="IMG_6375" src="https://github.com/user-attachments/assets/14b8c032-f173-4915-839b-30bdb5009d1d" />
+<img width="40" height="40" alt="IMG_6375" src="https://github.com/user-attachments/assets/14b8c032-f173-4915-839b-30bdb5009d1d" />
