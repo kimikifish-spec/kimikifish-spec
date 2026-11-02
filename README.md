@@ -27,10 +27,9 @@ ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
 
 
 
-
 <img src= https://github.com/kimikifish-spec/kimikifish-spec/blob/f61ccdb178fad9bf002433c9e6c443b6f22fccbf/52%20sin%20ti%CC%81tulo_20261101152608.png/>
 
-<img src= https://github.com/kimikifish-spec/kimikifish-spec/blob/e558f4d88fe7da2dda01ab57c6fb0e820a2748f1/54%20sin%20ti%CC%81tulo_20261101204213.png/>
+<img src= https://github.com/kimikifish-spec/kimikifish-spec/blob/main/IMG_6270.webp/>
 <th>
       $\color{FFD6B8}\normalsize{\texttt{你好!你可以叫我Dani。我的中文不是很好，所以我会使}}$ <br>
       $\color{FFE7CF}\normalsize{\texttt{用翻译器。如果你愿意和我聊天，我更喜欢你私信我。}}$ <br>
@@ -38,4 +37,3 @@ ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
     </th>
   </tr>
   </table>
-
