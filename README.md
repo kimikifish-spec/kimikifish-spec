@@ -40,7 +40,7 @@ ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
   </table>
 <img src= https://github.com/kimikifish-spec/kimikifish-spec/blob/0a5f863d4cbe3e0790e1d9433e35792d79557473/41%20sin%20ti%CC%81tulo_20261101212053.png/>
  <th>
-      $\color{FFD6B8}\normalsize{\texttt{I’m usually hanging out in the Safe Server}}$ <br>
+      $\color{FFD6B8}\normalsize{\texttt{I’m usually hanging out in the Safe Server Hetalia}}$ <br>
     $\color{FFE7CF}\normalsize{\texttt{Hetalia area or in the Chinese server IdentityV area !!}}$ <br>
 $\color{FFE7CF}\normalsize{\texttt{always feel free to sit with me, }}$ <br>
     $\color{FFECE0}\normalsize{\texttt{we’ll keep each other company!}}$ <br>
