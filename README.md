@@ -40,5 +40,5 @@ ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
   </table>
   
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=15&duration=3000&pause=1000&color=FAD5CD&center=true&vCenter=true&width=435&lines=—+Thank+you+,+Whip!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=15&duration=3000&pause=1000&color=FAD5CD&center=true&vCenter=true&width=435&lines=Thank+you+,+Whip!" />
 </p>
