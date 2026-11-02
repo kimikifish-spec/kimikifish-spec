@@ -26,5 +26,4 @@ ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
 
 <img width="20" height="20" alt="8AD235D1-7B7B-4B4A-B93E-6BCB33DD0CDC" src="https://github.com/user-attachments/assets/87344293-eb51-4aa1-bcee-8d3029b22018" />
 
-
-<img src= https://github.com/kimikifish-spec/kimikifish-spec/blob/24e4313e421717f82d71d2fb971cf2ea75d5f609/52%20sin%20ti%CC%81tulo_20261101152608.png. />
+<img src= https://github.com/kimikifish-spec/kimikifish-spec/blob/fa5d453a907e3a98d9cbb20b9444dfda0fbc2956/51%20sin%20ti%CC%81tulo_20261101125456.png />
