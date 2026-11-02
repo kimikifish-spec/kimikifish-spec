@@ -48,4 +48,5 @@ $\color{FFECE0}\normalsize{\texttt{we’ll keep each other company!}}$ <br>
   </tr>
   </table>
 <img src= https://github.com/kimikifish-spec/kimikifish-spec/blob/1669c9dd554636e25522c7cc7cc2bc58363052d9/53%20sin%20ti%CC%81tulo_20261101165752.png/>
-${{\color{#FFE7CF}{\textsf{⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔}}}}$
+
+<p align="center"> ${{\color{#FFE7CF}{\textsf{⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔}}}}$
