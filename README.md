@@ -31,7 +31,6 @@ ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
 <img src= https://github.com/kimikifish-spec/kimikifish-spec/blob/f61ccdb178fad9bf002433c9e6c443b6f22fccbf/52%20sin%20ti%CC%81tulo_20261101152608.png/>
 
 
-<img src= https://github.com/kimikifish-spec/kimikifish-spec/blob/be03c40501474d600d38cec02950968673f23d6d/E06C90C1-91B6-476B-8D3C-38B6650FC27F.gif/>
 <th>
       $\color{FFD6B8}\normalsize{\texttt{你好!你可以叫我Dani。我的中文不是很好，所以我会使}}$ <br>
       $\color{FFE7CF}\normalsize{\texttt{用翻译器。如果你愿意和我聊天，我更喜欢你私信我。}}$ <br>
