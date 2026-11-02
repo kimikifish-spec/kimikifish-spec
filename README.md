@@ -47,3 +47,7 @@ $\color{FFE7CF}\normalsize{\texttt{always feel free to sit with me, }}$ <br>
   </th>
   </tr>
   </table>
+
+
+
+<img width="20" height="20" alt="IMG_6375" src="https://github.com/user-attachments/assets/14b8c032-f173-4915-839b-30bdb5009d1d" />
