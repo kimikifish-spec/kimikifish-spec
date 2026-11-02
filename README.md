@@ -31,3 +31,4 @@ ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
 
 
 
+<img src= https://github.com/kimikifish-spec/kimikifish-spec/blob/24d7655dfca6551f9088b9eebde795082ed0b993/53%20sin%20ti%CC%81tulo_20261101165752.png/>
