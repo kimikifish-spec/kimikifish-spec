@@ -43,7 +43,7 @@ ${{\color{#ffbfd6}{\textsf{hellooo}}}}$
       $\color{FFD6B8}\normalsize{\texttt{I’m usually hanging out in the Safe Server Hetalia}}$ <br>
     $\color{FFE7CF}\normalsize{\texttt{area or in the Chinese server IdentityV area ! !}}$ <br>
 $\color{FFE7CF}\normalsize{\texttt{always feel free to sit with me, }}$ <br>
-    $\color{FFECE0}\normalsize{\texttt{we’ll keep each other company!}}$ <br>
+    $\color{FFECE0}\normalsize{\texttt{we’ll keep each other company!}}$ <img src= https://github.com/kimikifish-spec/kimikifish-spec/blob/22f013129eaefaeeff5f329b3a20ff389a54deb6/IMG_6375.gif/><br>
     </th>
   </tr>
   </table>
